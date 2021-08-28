@@ -11,8 +11,8 @@ Uses ESPnow to communicate between two ESP32's for use in use of physically sepa
 &ensp;This concept could easily be integrated into a wearable device or many wearable devices to tell specific local data; such as body temperature, heart rate, and other bodily functions. One could also create a brilliant light suit or some sort of astetic piece for a costume that communicates light signals or auditory information from one piece to another.
 
 ## Images of Concepts
-<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/20210201_021207.jpg" width="320" height="480">
-<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/fushionImage.png" width="320" height="480">
+<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/20210201_021207.jpg" width="480" height="320">
+<img src="https://github.com/jjliska/ESP32_Wireless_LED/blob/main/Media/fushionImage.png" width="480" height="320">
 
 ## References
 [Tutorial](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/)
